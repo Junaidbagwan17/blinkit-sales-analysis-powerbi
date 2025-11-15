@@ -1,3 +1,5 @@
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi&logoColor=white)
+
 # 📊 Blinkit Sales Analysis Dashboard
 
 I created this project to **understand Blinkit’s sales data**, explore **how their selling works across different regions**, and analyze **which outlet tiers (Tier 1, Tier 2, Tier 3)** generate the most profit and sales.  
